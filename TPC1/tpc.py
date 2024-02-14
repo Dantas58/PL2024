@@ -40,7 +40,6 @@ def age_groups(dic):
         for i in range(0, 56, 5):
             if i <= age < i + 5:
                 age_groups[i] += 1
-                break
 
     return age_groups
 
