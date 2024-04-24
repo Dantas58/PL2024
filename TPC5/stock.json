@@ -1,0 +1,38 @@
+[
+    {
+        "cod": "A01",
+        "nome": "Ice Tea 330ml",
+        "quant": 7,
+        "preco": 1.0
+    },
+    {
+        "cod": "B02",
+        "nome": "KitKat",
+        "quant": 11,
+        "preco": 1.3
+    },
+    {
+        "cod": "C03",
+        "nome": "\u00c1gua mineral 500ml",
+        "quant": 10,
+        "preco": 0.75
+    },
+    {
+        "cod": "D04",
+        "nome": "Ruffles",
+        "quant": 3,
+        "preco": 1.75
+    },
+    {
+        "cod": "E05",
+        "nome": "Caprisun 200ml",
+        "quant": 15,
+        "preco": 1.0
+    },
+    {
+      "cod": "F06",
+      "nome": "Coca Cola 330ml",
+      "quant": 5,
+      "preco": 1.0
+    }
+]
